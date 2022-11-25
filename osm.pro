@@ -39,6 +39,6 @@ OTHER_FILES += \
     osm_plugin.json \
     rpm/qt5-plugin-geoservices-osm.spec
 
-PLUGIN_TYPE = geoservices
-PLUGIN_CLASS_NAME = QGeoServiceProviderFactoryOsm
-load(qt_plugin)
+#PLUGIN_TYPE = geoservices
+#PLUGIN_CLASS_NAME = QGeoServiceProviderFactoryOsm
+#load(qt_plugin)
